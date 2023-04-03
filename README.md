@@ -3,6 +3,6 @@ source code of cluster chat server and client that could work on a nginx tcp loa
 
 compile:
 cd build
-rn -rf *
+rm -rf *
 cmake ..
 make
